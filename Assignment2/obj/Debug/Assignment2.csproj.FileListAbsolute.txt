@@ -1,0 +1,26 @@
+c:\users\carmelo\documents\visual studio 2015\Projects\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+c:\users\carmelo\documents\visual studio 2015\Projects\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+c:\users\carmelo\documents\visual studio 2015\Projects\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+c:\users\carmelo\documents\visual studio 2015\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.csprojResolveAssemblyReference.cache
+c:\users\carmelo\documents\visual studio 2015\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.Form1.resources
+c:\users\carmelo\documents\visual studio 2015\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+c:\users\carmelo\documents\visual studio 2015\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.Cache
+c:\users\carmelo\documents\visual studio 2015\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+c:\users\carmelo\documents\visual studio 2015\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
+C:\Users\Giuliano\Desktop\Carmelo\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\Giuliano\Desktop\Carmelo\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\Giuliano\Desktop\Carmelo\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
+C:\Users\Giuliano\Desktop\Carmelo\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\Giuliano\Desktop\Carmelo\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\Giuliano\Desktop\Carmelo\Assignment2\Assignment2\obj\Debug\Assignment2.Form1.resources
+C:\Users\Giuliano\Desktop\Carmelo\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+C:\Users\Giuliano\Desktop\Carmelo\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.Cache
+C:\Users\Carmelo\Desktop\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\Carmelo\Desktop\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\Carmelo\Desktop\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
+C:\Users\Carmelo\Desktop\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\Carmelo\Desktop\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\Carmelo\Desktop\Assignment2\Assignment2\obj\Debug\Assignment2.csprojResolveAssemblyReference.cache
+C:\Users\Carmelo\Desktop\Assignment2\Assignment2\obj\Debug\Assignment2.Form1.resources
+C:\Users\Carmelo\Desktop\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+C:\Users\Carmelo\Desktop\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.Cache
